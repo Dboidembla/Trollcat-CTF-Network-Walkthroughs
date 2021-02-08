@@ -8,7 +8,7 @@ Steps of Solving:
 1. Initialting Brute Force
 	Tool Used: aircrack-ng
 	Command Used: aircrack-ng hack1-01.cap -w /usr/share/wordlists/rockyou.txt 
-	Output:
+Output:
 	
   
   ![](CTF_Walkthrough/CTF1.png)
