@@ -9,5 +9,6 @@ Steps of Solving:
 	Tool Used: aircrack-ng
 	Command Used: aircrack-ng hack1-01.cap -w /usr/share/wordlists/rockyou.txt 
 	Output:
+	
   
   ![](CTF_Walkthrough/CTF1.png)
