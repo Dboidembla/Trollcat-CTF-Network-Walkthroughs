@@ -2,6 +2,7 @@
 These are the walkthroughs of all the Network Based CTF's created by dboidembla (Amritya)
 
 CTF1: Free Wi-fi
+
 CTF 1 is just a simple bruteforce based CTF, For this you need a wordlist (Prefferably rockyou.txt) 
 
 Steps of Solving:
